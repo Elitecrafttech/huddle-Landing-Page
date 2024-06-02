@@ -145,19 +145,18 @@
     cursor: pointer;
 }
 .section7{
+    width: 100%;
     color: black;
     background-color: hsl(192, 49%, 65%);
     display: flex;
     align-items: center;
-    justify-content: center;
-    padding: 60px 40px;
-    gap: 30%;
+    justify-content: space-between;
 }
 .sec7{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 30px;
+    gap: 20px;
 }
 .word{
     width: 60%;
